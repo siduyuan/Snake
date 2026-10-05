@@ -1,0 +1,57 @@
+# Visual Studio generated files
+.vs/
+x64/
+Debug/
+Release/
+*.suo
+*.user
+*.vspx
+*.sdf
+*.opensdf
+*.cachefile
+*.VC.db
+*.VC.db-shm
+*.VC.db-wal
+*.ipch
+*.tlog
+*.log
+*.lastbuildstate
+*.recipe
+*.ilk
+*.pdb
+*.obj
+*.res
+*.APS
+
+# Build results
+[Dd]ebug/
+[Rr]elease/
+*_i.c
+*_p.c
+*.ilk
+*.lib
+*.sbr
+*.pch
+
+# User-specific files
+*.rsuser
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# NuGet Packages
+*.nupkg
+*.snupkg
+**/[Pp]ackages/*
+!**/[Pp]ackages/build/
+
+# Build logs
+*.log
+tlog/
+
+# Temporary files
+*.tmp
+*.bak
+*.swp
+*~
